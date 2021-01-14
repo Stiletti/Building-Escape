@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Building_Escape/Intermediate/
 Building_Escape/Binaries/
+Building_Escape/Saved/
+Building_Escape/Content/
